@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather_app_kotlin_0.4</string>
+
+    <string name="temperature">Temperature</string>
+    <string name="wind">Wind</string>
+    <string name="humidity">Humidity</string>
+
+    <string name="city">Novosibirsk</string>
+    <string name="appid">4cf7f6610d941a1ca7583f50e7e41ba3</string>
+    <string name="units">metric</string>
+
+    <string name="degree_units">°C</string>
+    <string name="wind_units">mps</string>
+    <string name="humidity_units">%</string>
+</resources>
